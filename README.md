@@ -26,7 +26,7 @@ A simple Android app that simulates the roll of a dice. Built using **Kotlin** a
 
 | Initial State | After Roll |
 |---------------|------------|
-| ![dice_1](app/src/main/res/drawable/startImage.png) | ![dice_5](app/src/main/res/drawable/endImage.png) |
+| ![dice_1](src/main/res/drawable/startImage.png) | ![dice_5](src/main/res/drawable/endImage.png) |
 
 > Note: Screenshots are just sample references. Replace with actual emulator screenshots or remove this section if not needed.
 
